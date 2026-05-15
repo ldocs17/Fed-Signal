@@ -1,0 +1,42 @@
+[
+  {
+    "text": "The Committee decided to raise the target range for the federal funds rate by 75 basis points.",
+    "score": 0.95,
+    "label": "Very Hawkish"
+  },
+  {
+    "text": "Inflation remains well above the Committee's 2 percent objective.",
+    "score": 0.85,
+    "label": "Hawkish"
+  },
+  {
+    "text": "The Committee decided to maintain the target range for the federal funds rate.",
+    "score": 0.50,
+    "label": "Neutral"
+  },
+  {
+    "text": "The risks to achieving its employment and inflation goals are roughly in balance.",
+    "score": 0.30,
+    "label": "Mildly Dovish"
+  },
+  {
+    "text": "Inflation has made further progress toward the Committee's 2 percent objective.",
+    "score": 0.25,
+    "label": "Dovish"
+  },
+  {
+    "text": "The Committee decided to lower the target range for the federal funds rate by 50 basis points.",
+    "score": 0.15,
+    "label": "Very Dovish"
+  },
+  {
+    "text": "The labor market remains extremely tight and inflation continues to run well above the longer-run goal.",
+    "score": 0.88,
+    "label": "Hawkish"
+  },
+  {
+    "text": "The disinflationary process has continued and the labor market is showing signs of softening.",
+    "score": 0.22,
+    "label": "Dovish"
+  }
+]

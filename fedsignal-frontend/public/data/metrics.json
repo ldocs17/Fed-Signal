@@ -1,0 +1,16 @@
+{
+  "oos_r2": 0.314,
+  "dir_acc": 67.7,
+  "mae": 0.183,
+  "n_obs": 87,
+  "n_test": 67,
+  "feature_importances": [
+    { "feature": "twoy_ff_spread",      "importance": 0.271 },
+    { "feature": "sent_level_demeaned", "importance": 0.198 },
+    { "feature": "nlp_vs_regime",       "importance": 0.171 },
+    { "feature": "core_pce_yoy",        "importance": 0.142 },
+    { "feature": "regime_ordinal",      "importance": 0.098 },
+    { "feature": "nlp_momentum",        "importance": 0.079 },
+    { "feature": "sent_dispersion",     "importance": 0.041 }
+  ]
+}

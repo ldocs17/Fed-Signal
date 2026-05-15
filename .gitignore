@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# ML / data cache
+data/fred_data.pkl
+data/fomc_statements.json
+*.pkl
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
