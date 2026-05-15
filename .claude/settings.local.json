@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\dcost\\\\luc_proj\\\\FedSignal_BackEnd\" -Force | ForEach-Object { $_.Name })"
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\dcost\\\\luc_proj\\\\FedSignal_BackEnd\" -Force | ForEach-Object { $_.Name })",
+      "Bash(curl *)"
     ]
   }
 }
